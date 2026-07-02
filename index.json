@@ -1,0 +1,12 @@
+{
+  "pulses": [
+    {
+      "date": "2026-07-01",
+      "industry": "tea",
+      "subreddits": ["tea", "puer", "gongfutea"],
+      "posts_scanned": 180,
+      "findings_passing": 7,
+      "is_cold_start": true
+    }
+  ]
+}
